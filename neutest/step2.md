@@ -1,9 +1,9 @@
 Java projekt builden
 
 
-Please change the folder to &#39;com.mycustomer.myapplication&#39;.
+Please change the folder to &#39;myapplication&#39;.
 
-`cd com.mycustomer.myapplication`{{execute T1}}
+`cd myapplication`{{execute T1}}
  
 Use the following devon command to build the Java project.
 

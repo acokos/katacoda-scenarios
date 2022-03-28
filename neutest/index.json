@@ -2,7 +2,7 @@
   "title": "Neues Test tutorial",
   "description": "Zum testen von Tutorials",
   "difficulty": "Beginner",
-  "time": "15 Minutes",
+  "time": "25 Minutes",
   "details": {
     "steps": [
       {
@@ -16,6 +16,14 @@
       {
         "title": "Build the Java project",
         "text": "step2.md"
+      },
+      {
+        "title": "Create a new file",
+        "text": "step3.md"
+      },
+      {
+        "title": "Create a new file",
+        "text": "step4.md"
       }
     ],
     "intro": {
